@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**andellmatthews/andellmatthews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Andell Matthew.
 
-Here are some ideas to get you started:
+I am currently beginning my journey into cybersecurity through the Google Cybersecurity Professional Certificate on Coursera.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository will document my labs, notes, exercises, and projects as I continue learning and developing hands-on cybersecurity skills.
+
+---
+
+## Current Focus
+
+- Cybersecurity Fundamentals
+- Linux
+- SQL
+- Network Security
+- Risk Management
+- Security Tools
+
+---
+
+## Goals
+
+- Complete the Google Cybersecurity Certificate
+- Build hands-on cybersecurity experience
+- Develop strong defensive security skills
+- Continue learning about SOC operations and ethical hacking
+
+---
+
+## Projects
+
+| Project | Status |
+|----------|--------|
+| Linux Permissions Lab | Coming Soon |
+| SQL Security Exercise | Coming Soon |
+| Security Audit Report | Coming Soon |
+
+---
+
+## Tools & Technologies
+
+- Linux
+- GitHub
+- SQL
+- Wireshark
+- Python (Learning)
+
+---
+
+## Learning Progress
+
+This portfolio will continue to grow as I complete more labs, projects, and certifications.
