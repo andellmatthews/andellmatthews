@@ -47,6 +47,15 @@ This repository will document my labs, notes, exercises, and projects as I conti
 
 ---
 
+## Certifications & Course Progress
+
+### Google Cybersecurity Professional Certificate
+- Completed Course 1: Foundations of Cybersecurity
+- Learned core cybersecurity concepts, security analyst responsibilities, risk management basics, and security practices
+- Developed foundational knowledge of threat prevention and organizational security
+
+Status: Completed
+
 ## Learning Progress
 
 This portfolio will continue to grow as I complete more labs, projects, and certifications.
